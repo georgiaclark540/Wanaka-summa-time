@@ -77,10 +77,10 @@
           }
   
           .section-title {
-              font-size: 4rem;
+              font-size: 2rem;
               font-weight: 600;
               margin-bottom: 20px;
-              text-transform: uppercase;
+              text-transform: none;
               letter-spacing: 0.5px;
               color: #2c2c2c;
           }
