@@ -133,11 +133,11 @@
           }
   
           .footer-link {
-              position: absolute;
+              position: bottom;
               bottom: 30px;
               left: 30px;
               font-size: 1.2rem;
-              color: #2c2c2c;
+              color: #ffffff;
               text-decoration: none;
               display: flex;
               align-items: center;
